@@ -1,8 +1,8 @@
-package com.hassoud.androidstarter.activities
+package com.hassoud.android_starter.activities
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.hassoud.androidstarter.R
+import com.hassoud.android_starter.R
 
 class SplashActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

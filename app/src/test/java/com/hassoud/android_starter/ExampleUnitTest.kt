@@ -1,4 +1,4 @@
-package com.hassoud.androidstarter
+package com.hassoud.android_starter
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

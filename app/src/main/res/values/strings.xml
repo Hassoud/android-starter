@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Android Starter</string>
+    <!-- Todo Rename App -->
+    <string name="app_name">Android Starter App</string>
 </resources>
