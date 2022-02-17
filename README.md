@@ -65,6 +65,8 @@
 2. Rename
    Package **[Tutorial](https://www.geeksforgeeks.org/how-to-rename-package-name-in-android-studio/)**
 3. Rename App **[Tutorial](https://www.geeksforgeeks.org/how-to-change-an-android-apps-name/)**
+4. Change App Icon **[Tutorial](https://developer.android.com/studio/write/image-asset-studio)**
+5.
 
 #
 ---
